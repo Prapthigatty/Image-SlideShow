@@ -24,4 +24,7 @@ Modify style.css for custom styles.
 ## 📄 License
 This project is licensed under the MIT License.
 
-MADE BY : PRAPTHI A
+MADE BY : 
+
+PRAPTHI A
+
